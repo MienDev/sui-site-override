@@ -1,0 +1,41 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+/*
+	added by Mien Jan 29, 2016
+	'Microsoft YaHei', '微软雅黑',
+*/
+
+/*-------------------
+       Fonts
+--------------------*/
+
+@headerFont        : @fontName, 'Microsoft YaHei', '微软雅黑','Helvetica Neue', Arial, Helvetica, sans-serif;
+@pageFont          : @fontName, 'Microsoft YaHei', '微软雅黑','Helvetica Neue', Arial, Helvetica, sans-serif;
+@importGoogleFonts : false;
+
+
+
+/*-------------------
+      Site Colors
+--------------------*/
+
+/*---  Colors  ---*/
+@red              : #BB1D1A; 
+@blue             : #1CB9EE;
+
+
+
+/*-------------------
+    Border Radius
+--------------------*/
+
+/* See Power-user section below
+   for explanation of @px variables
+*/
+
+@relativeBorderRadius: @relative3px;
+@absoluteBorderRadius: @3px;
+
+@defaultBorderRadius: @absoluteBorderRadius;

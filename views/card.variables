@@ -1,0 +1,9 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+
+/* Content Image */
+
+@contentImageWidth: 100%; 
+@contentImageVerticalAlign: middle;
